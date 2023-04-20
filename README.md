@@ -1,6 +1,7 @@
 # LigandDiversity
 
 Small introduction to generating a diversified subset of ligands and decoys (in this example: taken from the DUD-E)
+It is designed to generate a dataset for docking in CADD endeavors. It removes the common violators like rule of 5 or PAINs.
 If you want to use the script for both, please change the files names so they aren't overwritten.
 Step by Step:
 
